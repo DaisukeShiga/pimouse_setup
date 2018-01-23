@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Daisuke Shiga
+#Written by Daisuke Shiga...
 
 exec 2> /tmp/setup.log
 
